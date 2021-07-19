@@ -23,6 +23,14 @@
         "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2833.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/audacity_annotations.json",
+            "label": "Audacity_Annotations"
+          }
+        ],
         "items": [
           {
             "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/paintings",
