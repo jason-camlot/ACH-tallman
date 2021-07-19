@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "ACH Tallman Presentation" ] },
+    "summary": { "en": [ "Using AudiAnnotate to layer reel to reel recording made up of multiple clips." ] },
+    "items": [
+    ]
+}
