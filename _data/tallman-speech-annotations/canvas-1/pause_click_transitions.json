@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions.json",
+  "type": "AnnotationPage",
+  "label": "Pause_Click_Transitions",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2.641892,3.216216"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.216219,39.513516"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause Click/Drop",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "135.081089,136.229738"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "201.472986,202.277040"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "209.398662,210.317581"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "243.972988,244.777042"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "372.851375,374.000023"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "377.445969,379.283807"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2436.513665,2437.030557"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2465.459613,2465.861640"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2609.270433,2609.729892"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2623.370096,2623.657258"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause click",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2697.055911,2697.601519"
+        }
+      }
+    }
+  ]
+}

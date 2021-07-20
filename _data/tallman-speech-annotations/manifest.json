@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/pause_click_transitions.json",
+            "label": "Pause_Click_Transitions"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/audacity_annotations.json",
             "label": "Audacity_Annotations"
           }
