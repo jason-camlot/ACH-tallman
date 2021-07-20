@@ -36,6 +36,12 @@
             "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/audacity_annotations.json",
             "label": "Audacity_Annotations"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/dec_14_1986.json",
+            "label": "Dec_14_1986"
+          }
         ],
         "items": [
           {

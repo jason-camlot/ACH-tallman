@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/dec_14_1986.json",
+  "type": "AnnotationPage",
+  "label": "Dec_14_1986",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/dec_14_1986-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": " Dec 14 1986",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.581082,38.479732"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/dec_14_1986-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "December 14 1986",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.000008,201.472986"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/dec_14_1986-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dec 14 1986",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.581082,38.479732"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas/dec_14_1986-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "December 14 1986",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH-tallman/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.000008,201.472986"
+        }
+      }
+    }
+  ]
+}
